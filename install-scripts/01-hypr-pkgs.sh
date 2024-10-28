@@ -8,7 +8,50 @@
 
 # add packages wanted here
 Extra=(
-
+  clipboard
+  hyprlux
+  hyprnavi
+  syspower
+  flameshot
+  hyprchroma
+  fabric
+  swayosd
+  inkscape
+  rsync
+  vlc
+  okular
+  tealdeer
+  pulseaudio
+  bash-completion
+  intel-ucode
+  audacious
+  mission-center
+  timeshift
+  onlyoffice
+  vscodium
+  rclone-mount-service
+  dbeaver
+  pgadmin
+  darktable
+  denaro
+  gwenview
+  qbittorrent
+  merkuro
+  thunar-archive-plugin
+  xed
+  spotify
+  ryujinx
+  anki
+  coolercontrol
+  octopi
+  zen-browser-bin
+  coolercontrol-bin
+  zapzap
+  ruff
+  uv
+  nwg-drawer
+  gnome-control-center
+  google-maps-desktop
 )
 
 hypr_package=( 
